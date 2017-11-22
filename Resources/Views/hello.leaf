@@ -4,5 +4,6 @@
 
 #export("content") {
 	<h1>Hello, #(name)!</h1>
+    <p> lorem impus blablabla </p>
 }
 
